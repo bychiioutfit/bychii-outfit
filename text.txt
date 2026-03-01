@@ -1,0 +1,9 @@
+bychii-outfit/
+│
+├─ index.html       ← your main store page
+├─ style.css        ← styling for your store
+├─ script.js        ← any app interactions
+└─ images/          ← all product images (placeholders for now)
+      ├─ product1.jpg
+      ├─ product2.jpg
+      └─ ...
